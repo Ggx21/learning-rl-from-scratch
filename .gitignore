@@ -1,0 +1,9 @@
+
+
+# disable all
+*
+# enable specific files
+!*.txt
+!*.md
+!*.py
+!.gitignore
